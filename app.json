@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Product 1",
+      "price": "$50",
+      "image": "https://example.com/product1.jpg"
+    },
+    {
+      "name": "Product 2",
+      "price": "$60",
+      "image": "https://example.com/product2.jpg"
+    },
+    {
+      "name": "Product 3",
+      "price": "$70",
+      "image": "https://example.com/product3.jpg"
+    },
+    {
+      "name": "Product 4",
+      "price": "$80",
+      "image": "https://example.com/product4.jpg"
+    }
+  ]
+  
+  

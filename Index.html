@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="App.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <title>Document</title>
+</head>
+<body style="background-color: #003366;">
+    <header>
+        <!-- Header content, such as logo, navigation, and search bar -->
+         <nav>
+            <!-- Navigation links, such as links to different categories or pages -->
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">Products</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>
+          </nav>
+          <div class="logo">
+            <!-- Logo or brand name -->
+            <h1 class="logo a"><a href="#">Pata wateja  Platform Where seller Finds buyers</a></h1>
+          </div>
+          <form class="search-form">
+            <!-- Search form for searching products -->
+            <input type="text" placeholder="Search products">
+            <button type="submit">Search</button>
+
+          </form>
+          
+
+      </header>
+      <main>
+        <!-- Main content, such as product listings and categories -->
+        <section class="categories">
+            <!-- Categories for products -->
+            <h2>Categories</h2>
+            <select id="categoryFilter">
+                <option value="">All Categories</option>
+                <option value="Clothing">Clothing</option>
+                <option value="Footwear">Footwear</option>
+                <option value="Accessories">Accessories</option>
+                <option value="">Electronics</option>
+                <option value="Clothing">services</option>
+                <option value="Footwear">cereals</option>
+                <option value="Accessories">Proffessionals</option>
+                <option value="">Construction</option>
+                <option value="Clothing">Real Estate</option>
+                <option value="Footwear">Salonists</option>
+                <option value="Accessories">Administrative</option>
+              </select>
+          </section>
+     
+           <!--content and  Add section-->
+          <section>
+            <div class="container" >
+                <div class="main-content" style="float: left; width: 80%;">
+                    <section class="products">
+                     
+                      <input id="searchInput" type="text">
+                      <button id="searchButton">Search</button>
+                      <ul id="results">
+                        <!-- search results will be displayed here -->
+                      </ul>
+
+                      <br>
+                      <div id="productContainer">
+                        <!-- Products will be rendered here -->
+                      </div>
+                       
+                      </section>
+                      
+            <section>
+
+                <div class="ad" style="float: right; width: 20%;">
+                  <h2>Advertisement</h2>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+                <div style="clear: both;"></div>
+              </div>
+              
+          </section>
+         
+          
+
+      </main>
+      <footer>
+        <!-- Footer content, such as copyright information and links -->
+        <p>Copyright &copy; Jamie One Stop Stores 2023</p>
+        <nav>
+          <!-- Footer navigation links, such as links to terms of service and privacy policy -->
+          <ul>
+            <li><a href="#">Terms of Service</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+          </ul>
+        </nav>
+      </footer>
+      <!--javascript section-->
+      <script src="App.js"></script>
+      <script src="app.json"></script>
+      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+
+</body>
+</html>
