@@ -199,9 +199,9 @@ header nav li {
 
   .product-container {
     display: inline-block;
-    width: 300px;
+    width: 250px;
     height: 400px;
-    margin: 10px;
+    margin: 2px;
     text-align: center;
     background-color: #ffdb58;
   }
