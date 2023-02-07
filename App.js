@@ -44,11 +44,11 @@
       { name: "Ladies Dress",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.30.jpeg", price: 20, category: "Fashion", location: "UK" },
       { name: "Woofer",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.31%20(2).jpeg", price: 30, category: "Clothings", location: "Canada" },
       { name: "Men suit",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.31%20(1).jpeg", price: 40, category: "Electronics", location: "USA" },
-      { name: "Generator", image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.31%20(1).jpeg", price: 10, category: "Electronics", location: "USA" },
-      { name: " Men shoes",image: "https://www.example.com/product1.jpg", price: 20, category: "Fashion", location: "UK" },
-      { name: " Spoons",image: "https://www.example.com/product1.jpg", price: 30, category: "Home & Kitchen", location: "Canada" },
-      { name: " Sockets",image: "https://www.example.com/product1.jpg", price: 40, category: "Electronics", location: "USA" },
-      { name: " Piano",image: "https://www.example.com/product1.jpg", price: 40, category: "Electronics", location: "USA" },
+      { name: " Men suit", image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.31%20(1).jpeg", price: 10, category: "Electronics", location: "USA" },
+      { name: " dessini",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.31.jpeg", price: 20, category: "utensils", location: "UK" },
+      { name: " Car",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.32.jpeg", price: 30, category: "Home & Kitchen", location: "Canada" },
+      { name: " Piano",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.27.jpeg", price: 40, category: "Electronics", location: "USA" },
+      { name: " Generator",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.29.jpeg", price: 40, category: "Electronics", location: "USA" },
     ];
 
    // sorting products
