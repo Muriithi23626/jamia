@@ -39,7 +39,7 @@
     var products = [
       { name: "Piano", image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.27.jpeg", price: 10, category: "Electronics", location: "USA" },
       { name: " Personal cars",image: "https://github.com/Muriithi23626/jamia/blob/e2b9f4fcdd3e0ce9e9fdee1829b69fa7537d770e/WhatsApp%20Image%202023-02-07%20at%2017.26.32.jpeg", price: 20, category: "Vehicles", location: "UK" },
-      { name: " Generator",image: "https://github.com/Muriithi23626/jamia/blob/9c25b0b3cb310a02288563c0a4eeabea5b55ee3c/WhatsApp%20Image%202023-02-07%20at%2017.26.29.jpeg", price: 30, category: "Electronics", location: "Canada" },
+      { name: " Generator",image: "https://github.com/Muriithi23626/jamia/raw/main/WhatsApp%20Image%202023-02-07%20at%2017.26.30%20(1).jpeg", price: 30, category: "Electronics", location: "Canada" },
       { name: "Televisions", image: "https://www.example.com/product1.jpg", price: 10, category: "Electronics", location: "USA" },
       { name: "Ladies Dress",image: "https://www.example.com/product1.jpg", price: 20, category: "Fashion", location: "UK" },
       { name: "Cooking pan",image: "https://www.example.com/product1.jpg", price: 30, category: "Home & Kitchen", location: "Canada" },
